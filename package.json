@@ -1,0 +1,27 @@
+{
+  "name": "wallet",
+  "version": "1.0.0",
+  "description": "A crypto wallet in mongodb, express, html, css, js & node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oc-anthony/kalon-wallet.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "express",
+    "node",
+    "mongodb"
+  ],
+  "author": "oc-anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oc-anthony/kalon-wallet/issues"
+  },
+  "homepage": "https://github.com/oc-anthony/kalon-wallet#readme"
+}
